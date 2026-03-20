@@ -1,0 +1,18 @@
+components:
+  schemas:
+    Todo:
+      type: object
+      required:
+        - id
+        - title
+        - completed
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        completed:
+          type: boolean
+        createdAt:
+          type: string
+          format: date-time

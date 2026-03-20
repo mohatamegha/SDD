@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/todo-sdd-backend/src/main/resources/application.properties">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/todo-sdd-backend/src/main/resources/application.properties" />
+              <option name="originalContent" value="spring.application.name=todo-sdd-backend&#10;&#10;# Serve the bundled OpenAPI spec (placed in src/main/resources/static/api.yml)&#10;springdoc.swagger-ui.url=/api.yml&#10;# Optional: keep generated docs available (set to false if you want only the spec file)&#10;# springdoc.api-docs.enabled=false" />
+              <option name="updatedContent" value="spring.application.name=todo-sdd-backend&#10;&#10;# Serve the bundled OpenAPI spec (placed in src/main/resources/static/api.yml)&#10;springdoc.swagger-ui.url=/api.yml&#10;# Optional: keep generated docs available (set to false if you want only the spec file)&#10;# springdoc.api-docs.enabled=false" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
